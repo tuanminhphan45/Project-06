@@ -23,10 +23,10 @@
 - npm start
 
 ## 📩 Let's Connect!
-## 💼 Phan Nguyen Tuan Minh
-## 📧 Email: tuanminhphan45@gmail.com
-## 💻 GitHub: github.com/tuanminhphan45
-## 📍 Location: Hanoi, Vietnam
+  - 💼 Phan Nguyen Tuan Minh
+  - 📧 Email: tuanminhphan45@gmail.com
+  - 💻 GitHub: github.com/tuanminhphan45
+  - 📍 Location: Hanoi, Vietnam
 
 ```bash
 
