@@ -19,18 +19,16 @@
 ---
 
 ## 🚀 Start the Development Server  
+- npx json-server --watch db.json --port 3000
+- npm start
+
+## 📩 Let's Connect!
+## 💼 Phan Nguyen Tuan Minh
+## 📧 Email: tuanminhphan45@gmail.com
+## 💻 GitHub: github.com/tuanminhphan45
+## 📍 Location: Hanoi, Vietnam
 
 ```bash
-npx json-server --watch db.json --port 3000
-npm start
-📷 Project Screenshots
-
-https://github.com/user-attachments/assets/6d1fa3aa-0a4a-43a0-9d83-4bf571a314a9
 
 
-📩 Let's Connect!
-💼 Phan Nguyen Tuan Minh
-📧 Email: tuanminhphan45@gmail.com
-💻 GitHub: github.com/tuanminhphan45
-📍 Location: Hanoi, Vietnam
 
